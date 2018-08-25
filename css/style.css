@@ -66,3 +66,17 @@ header .conteudo .item h3{
 		width: 30%;
 
 }
+
+footer{
+  display: flex;
+  background-image: url("../img/img1.jpg");
+  position: relative;
+  width: 100%;
+  min-height: auto;
+}
+.rodape{
+  color: grey;
+  padding: 10px;
+  text-align: center;
+  letter-spacing: 1px;
+}
